@@ -35,18 +35,6 @@ src/
 ├── pages/          # Main pages (Home, Courses, Team...)
 ├── data/           # Static data (team, courses)
 └── App.jsx         # Main app & routing
-## ⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/your-username/irongury-gym.git
-Navigate to the project folder:
-cd irongury-gym
-Install dependencies:
-npm install
-Run the project:
-npm run dev
-## 📸 Screenshots
-
-<img width="1290" height="2796" alt="localhost_5173_(iPhone 14 Pro Max) (4)" src="https://github.com/user-attachments/assets/091368a2-a1c4-43b7-8811-8e4b1adbf348" />
 
 ## 🎯 Project Purpose
 This project was created to practice and improve skills in:
