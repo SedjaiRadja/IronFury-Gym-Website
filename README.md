@@ -8,6 +8,7 @@ This project focuses on delivering a clean UI, smooth navigation, and a user-fri
 - 👥 Team Page – Showcase of coaches and trainers
 - 📝 Registration Page – User signup form for gym membership
 - 📞 Contact Page – Contact form for inquiries
+- 
 ## 🎨 UI & UX
 - 📱 Fully Responsive Design (Mobile & Laptop)
 - ⚡ Smooth and simple animations
@@ -16,6 +17,7 @@ This project focuses on delivering a clean UI, smooth navigation, and a user-fri
 - ⚡ Built with React Router for seamless navigation
 - 🧩 Component-based architecture
 - 📊 Dynamic rendering of data (Team / Courses)
+- 
 ## 🔮 Future Improvements
 - 🔗 Connect Registration Page to an Admin Dashboard
 -- Planned System:
@@ -24,17 +26,11 @@ Data is sent to the admin dashboard
 Admin can:
 View registered users
 Manage memberships
+
 ## 🛠️ Technologies Used
 - ⚛️ React (JSX)
 - 🎨 Tailwind CSS
 - 🔀 React Router
-## 📂 Project Structure
-src/
-│
-├── components/     # Reusable UI components (Navbar, Footer...)
-├── pages/          # Main pages (Home, Courses, Team...)
-├── data/           # Static data (team, courses)
-└── App.jsx         # Main app & routing
 
 ## 🎯 Project Purpose
 This project was created to practice and improve skills in:
@@ -42,9 +38,12 @@ This project was created to practice and improve skills in:
 - Building responsive layouts
 - Using Tailwind CSS efficiently
 - Structuring real-world projects
+
+## 🌐 Live Demo
+👉 [Visit IronGury Gym Website](https://ironfury-gym.netlify.app/)
+
 # 👨‍💻 Author
-
 Sedjai Radja
-# ⭐ Status
 
+# ⭐ Status
 🚧 Project in progress – more features and backend integration coming soon.
